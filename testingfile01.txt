@@ -1,1 +1,3 @@
 ini testing file 01
+
+tambah kata 02
