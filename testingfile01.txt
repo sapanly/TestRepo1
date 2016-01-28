@@ -3,3 +3,5 @@ ini testing file 01
 tambah kata 02
 
 tambah kata 03-1
+
+tambah kata 04
